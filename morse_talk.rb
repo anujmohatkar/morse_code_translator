@@ -170,4 +170,6 @@ when choice == "encode"
     p final_string
 else
     p "thats not a service i serve, so fuck off"
+    sleep(2)
+    p "sorry ;-;"
 end
